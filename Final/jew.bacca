@@ -1,0 +1,51 @@
+
+
+     012345
+   +-------
+ 0 | .abbcc
+ 1 | .aabbc
+ 2 | ..aabb
+ 3 | d..aab
+ 4 | d...aa
+ 5 | ddee..
+ 6 | dddee.
+
+
+MOVES: 0
+TARGET: 5
+
+
+MOVE: d at (2, 1)
+
+
+     012345
+   +-------
+ 0 | dabbcc
+ 1 | daabbc
+ 2 | ddaabb
+ 3 | dddaab
+ 4 | ddddaa
+ 5 | ddee..
+ 6 | dddee.
+
+
+MOVES: 1
+TARGET: 5
+
+
+MOVE: d at (5, 5)
+
+
+     012345
+   +-------
+ 0 | dabbcc
+ 1 | daabbc
+ 2 | ddaabb
+ 3 | dddaab
+ 4 | ddddaa
+ 5 | ddeedd
+ 6 | dddeed
+
+
+MOVES: 2
+TARGET: 5
